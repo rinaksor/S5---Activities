@@ -14,3 +14,4 @@ console.log(logger.readLog());
 // 2  - Log a new message
 const newLog = "Exercice 2 is alsmost finished";
 logger.writeLog(newLog);
+console.log(logger.readLog());
