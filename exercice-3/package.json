@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "type": "module",
+  "name": "exercice-3",
+  "version": "1.0.0",
+  "description": "test color",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinaksor/S5---Activities.git"
+  },
+  "keywords": [
+    "\"keywords\":",
+    "[\"text\"",
+    "\"processing\"",
+    "\"text-processing\"",
+    "\"string\"",
+    "\"manipulation\"",
+    "\"text-analysis\"",
+    "\"natural-language\"",
+    "\"language-processing\"",
+    "\"text-mining\"",
+    "\"nlp\"",
+    "\"text-generation\"",
+    "\"text-classification\"",
+    "\"text-search\"]"
+  ],
+  "author": "\"Rina <ksorrina@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinaksor/S5---Activities/issues"
+  },
+  "homepage": "https://github.com/rinaksor/S5---Activities#readme"
+}
